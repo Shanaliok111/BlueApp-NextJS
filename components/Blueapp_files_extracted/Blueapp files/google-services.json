@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101686646564",
+    "project_id": "blueapp-9c773",
+    "storage_bucket": "blueapp-9c773.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101686646564:android:976ec385525ca6ab1345b1",
+        "android_client_info": {
+          "package_name": "com.blueapp.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfc-9tFJ9mn2bh07CzXjoTTaEqjAyLIaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
