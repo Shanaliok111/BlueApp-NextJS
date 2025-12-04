@@ -1,10 +1,5 @@
-import ExampleComponent from './components/ExampleComponent';
+import RealBlueApp from '../components/RealBlueApp';
 
 export default function Home() {
-    return (
-        <>
-            <h1>BlueApp is live!</h1>
-            <ExampleComponent />
-        </>
-    );
+    return <RealBlueApp />;
 }
