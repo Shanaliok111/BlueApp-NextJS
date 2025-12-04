@@ -1,5 +1,8 @@
-package com.blueapp.webrtc;
-
-public class Config {
-    public static final String WEBRTC_APP_ID = "ADD_YOUR_ID_HERE";
+export default function RealBlueApp() {
+    return (
+        <div style={{ padding: "20px", fontSize: "20px" }}>
+            <h1>Real BlueApp Component Running!</h1>
+            <p>Yeh placeholder component hai. Actual features baad me integrate karenge.</p>
+        </div>
+    );
 }
