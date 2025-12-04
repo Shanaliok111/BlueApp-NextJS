@@ -1,10 +1,10 @@
-import ExampleComponent from '../components/ExampleComponent';
+import MainApp from '../components/app/src/main/java/com/blueapp/webrtc/Config';
 
 export default function Home() {
     return (
         <>
             <h1>BlueApp is live!</h1>
-            <ExampleComponent />
+            <MainApp />
         </>
     );
 }
