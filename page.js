@@ -1,1 +1,0 @@
-remove root page.js
